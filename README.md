@@ -1,4 +1,4 @@
-# go-handlers-article
+# A simple dockerized app to demonstrate the use of Handle, Handler, HandleFunc and HandlerFunc. 
 Example used on article about Handle, Handler, HandleFunc and HandlerFunc.
 
 Just clone this repository, open it as a container using VSCode devcontainer tool, open a terminal inside of VSCode and run "go run .".
